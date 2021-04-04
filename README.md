@@ -1,5 +1,5 @@
 # Rajeswari0410
-![Rjeswari Seal's-cover](./cover-image.png)
+![Rajeswari's-cover](./Cover-image.png)
 
 ## 🧔 About Me
 
