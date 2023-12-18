@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Machine Learning and AI](https://github.com/Rajeswari0410/Optimization-for-K-Means)
 
-- 🌱 I’m currently learning **Arduino, Open-CV and developing Front-end skills**
+- 🌱 I’m currently focusing on developing my **Front-end and Data Analytics skills**
 
 ## ✍ My Work
 
