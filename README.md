@@ -17,7 +17,7 @@ Here are some of my projects on Github that I am proud of:
 
 Collaborated projects:
 
-[[!Software Engineer][![Continuous Education Credit Tracker](https://github-readme-stats.vercel.app/api/pin/username=CSCE606-NIKI&repo=niki&show_icons=true&theme=dark)](https://github.com/CSCE606-NIKI/niki)
+🚀 [Continuous Education Credit Tracker](https://github.com/CSCE606-NIKI/niki)
 
 
 ## 📚 My Skills
@@ -27,13 +27,21 @@ Collaborated projects:
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Skill](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Skill](https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Skill](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Skill](https://img.shields.io/badge/-Python3-orange??style=for-the-badge&logo=python)
 ![Skill](https://img.shields.io/badge/-C?style=for-the-badge&logo=C&logoColor=white)
 ![Skill](https://img.shields.io/badge/-MATLAB-blue)
 ![Skill](https://img.shields.io/badge/-OpenCV-brightgreen)
-
+![Skill](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Skill](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Skill](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Skill](https://img.shields.io/badge/Machine_Learning-4285F4?style=for-the-badge&logo=machinelearning&logoColor=white)
+![Skill](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logo=deeplearning&logoColor=white)
+![Skill](https://img.shields.io/badge/Excel_Automation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Skill](https://img.shields.io/badge/Data_Analytics-0081CB?style=for-the-badge&logo=dataanalytics&logoColor=white)
+![Skill](https://img.shields.io/badge/Data_Science-F37626?style=for-the-badge&logo=datascience&logoColor=white)
 
 ## 🤝 Connect
 
