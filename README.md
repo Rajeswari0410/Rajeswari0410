@@ -21,6 +21,8 @@ Collaborated projects:
 
 🚀 [Continuous Education Credits Tracker](https://github.com/CSCE606-NIKI/niki)
 
+[![SE](https://github-readme-stats.vercel.app/api/pin/?username=CSCE606-NIKI&repo=niki&show_icons=true&theme=dark)](https://github.com/CSCE606-NIKI/niki)
+
 ## 📚 My Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeswari0410&layout=compact&show_icons=true&theme=dark)](https://github.com/Rajeswari0410)
