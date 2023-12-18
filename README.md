@@ -15,6 +15,10 @@ Here are some of my projects on Github that I am proud of:
 
 [![ML](https://github-readme-stats.vercel.app/api/pin/?username=Rajeswari0410&repo=Movie-recommendation-system&show_icons=true&theme=dark)](https://github.com/Rajeswari0410/Movie-recommendation-system)
 
+Collaborated projects:
+🚀 [[!Software Engineer]Continuous Education Credit Tracker[CSCE606-NIKI/niki](https://github.com/CSCE606-NIKI/niki)!]
+
+
 ## 📚 My Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeswari0410&layout=compact&show_icons=true&theme=dark)](https://github.com/Rajeswari0410)
