@@ -25,7 +25,7 @@ Collaborated projects:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeswari0410&layout=compact&show_icons=true&theme=dark)](https://github.com/Rajeswari0410)
 
 ![Skill](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Skill](https://img.shields.io/badge/C#-00599C?style=for-the-badge&logo=csharp&logoColor=white)
+![Skill](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Skill](https://img.shields.io/badge/-C?style=for-the-badge&logo=C&logoColor=white)
 ![Skill](https://img.shields.io/badge/-Python3-orange??style=for-the-badge&logo=python)
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
