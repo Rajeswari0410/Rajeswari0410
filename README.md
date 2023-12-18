@@ -13,7 +13,7 @@
 
 Here are some of my projects on Github that I am proud of:
 
-[![ML](https://github-readme-stats.vercel.app/api/pin/?username=Rajeswari0410&repo=Fraud-Detection&show_icons=true&theme=dark)](https://github.com/Rajeswari0410/Fraud_Detection)
+[![ML](https://github-readme-stats.vercel.app/api/pin/?username=Rajeswari0410&repo=Fraud_Detection&show_icons=true&theme=dark)](https://github.com/Rajeswari0410/Fraud_Detection)
 
 Collaborated projects:
 
