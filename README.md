@@ -19,7 +19,7 @@ Here are some of my projects on Github that I am proud of:
 
 Collaborated projects:
 
-🚀 [Continuous Education Credits Tracker](https://github.com/CSCE606-NIKI/niki)
+🚀 Continuing Education Credits Tracker
 
 [![SE](https://github-readme-stats.vercel.app/api/pin/?username=CSCE606-NIKI&repo=niki&show_icons=true&theme=dark)](https://github.com/CSCE606-NIKI/niki)
 
