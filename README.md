@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rajeswari Palacharla</h1>
+<p align="center">
+  <img src="github-header-image.png" alt="Rajeswari Palacharla" width="100%">
+</p>
+
 <h3 align="center">Engineer by craft • Innovator by instinct • shipping software that thinks</h3>
 
 ## 👩 About Me
