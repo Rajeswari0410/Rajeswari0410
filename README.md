@@ -3,7 +3,7 @@
 
 ## 👩 About Me
 
-- 🔭 I’m currently working on [Machine Learning and AI](https://github.com/Rajeswari0410/SentimentAnalysis)
+- 🔭 I’m currently working on [LLMs and RAGs](https://github.com/Rajeswari0410/SentimentAnalysis)
 
 - 🌱 I’m currently learning **Open-CV and developing Front-end skills**
 
@@ -19,9 +19,17 @@ Here are some of my projects on Github that I am proud of:
 
 Collaborated projects:
 
+🚀 CinePrompt - Personalized Prompt based Recommendation
+
+[![SE](https://github-readme-stats.vercel.app/api/pin/?username=LikhithReddyM&repo=CinePrompt&show_icons=true&theme=dark)](https://github.com/LikhithReddyM/CinePrompt/)
+
 🚀 Continuing Education Credits Tracker
 
 [![SE](https://github-readme-stats.vercel.app/api/pin/?username=CSCE606-NIKI&repo=niki&show_icons=true&theme=dark)](https://github.com/CSCE606-NIKI/niki)
+
+🚀 VitaFin - Personal Health and Budget Tracker
+
+[![DataViz](https://github-readme-stats.vercel.app/api/pin/?username=ApurvaMandalika9&repo=VitaFin&show_icons=true&theme=dark)](https://github.com/ApurvaMandalika9/DataVizProject-VitaFin)
 
 ## 📚 My Skills
 
@@ -34,6 +42,7 @@ Collaborated projects:
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Skill](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Skill](https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=Flask&logoColor=white)
 ![Skill](https://img.shields.io/badge/-MATLAB-blue)
 ![Skill](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Skill](https://img.shields.io/badge/Excel_Automation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -51,5 +60,5 @@ Collaborated projects:
 
 ## 🤝 Connect
 
-[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeswari-palacharla-5969b1175/)
+[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajarajeswari-palacharla/)
 [![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajeswari0410)
