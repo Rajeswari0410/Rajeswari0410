@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rajeswari Palacharla</h1>
-<h3 align="center">Engineer by craft, innovator by instinct - writing software that thinks</h3>
+<h3 align="center">Engineer by craft • Innovator by instinct • shipping software that thinks</h3>
 
 ## 👩 About Me
 
 - 🔭 I’m currently working on **LLMs and RAGs**
 
 - 🌱 I’m currently learning **MLOps pipelines, Prompt engineering & fine-tuning LLMs**
-
-- 👨‍💻 My Portfolio [https://eswari-tamu.github.io/](https://eswari-tamu.github.io/)
-
-- 📫 How to reach me **eswarichoudary@gmail.com**
+-  ☄️ <strong>Open to Software Engineer / ML Engineer / Data Science roles</strong> <br/>
+-  🌐 <a href="https://eswari-tamu.github.io/">Portfolio</a> • 📧 eswarichoudary@gmail.com 
 
 ## ✍ My Work
 
