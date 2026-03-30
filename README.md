@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MLOps pipelines, Prompt engineering & fine-tuning LLMs**
 -  ☄️ <strong>Open to Software Engineer / ML Engineer / Data Science roles</strong> <br/>
--  🌐 <a href="https://eswari-tamu.github.io/">Portfolio</a> • 📧 eswarichoudary@gmail.com 
+-  🌐 <a href="https://rajeswari-palacharla.vercel.app/">Portfolio</a> • 📧 eswarichoudary@gmail.com 
 -  [![University](https://img.shields.io/badge/uni%20profile-@univ--user-blue?logo=github)](https://github.com/eswari-tamu/)
 ## ✍ My Work
 
